@@ -27,18 +27,13 @@ public class TemloeMod
 	
 	@Instance(TemloeMod.MODID)
 	public static TemloeMod instance;
-	
-	
-	
-	
+
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event)
 	{
 		MinecraftForge.EVENT_BUS.register(proxy);
 	}
 
-
-	
 	@EventHandler
 	public void init(FMLInitializationEvent event)
 	{
