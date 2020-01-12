@@ -1,6 +1,5 @@
 package com.miangs.temloemod;
 
-
 import com.miangs.temloemod.entity.FakePlayerLoader;
 
 // Ctrl + F11 启动
