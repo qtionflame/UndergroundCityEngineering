@@ -1,0 +1,28 @@
+###########################
+item.itemkeylockeddoor.name=门禁门
+item.key.name=门禁卡
+item.remover.name=拆门禁卡器
+itemGroup.IC ard MOD=门禁卡 MOD
+tile.Copperore.name=铜矿石
+item.Copperingot.name=铜锭
+item.Chip.name=芯片
+item.Labelchip.name=标签芯片
+item.Plasticparticles.name=塑料颗粒
+item.Plastic.name=塑料
+item.Copperwire.name=铜线
+itemGroup.IC ard MOD=门禁卡 MOD
+GuiButton.A0001.name=取消
+GuiButton.A0002.name=确定
+tile.keylockeddoor.name=丢失了
+
+
+
+
+
+itemGroup.mobile box=移动箱
+item.smallsuitcase.name=木盒子
+item.ironbox.name=铁盒子
+
+
+
+

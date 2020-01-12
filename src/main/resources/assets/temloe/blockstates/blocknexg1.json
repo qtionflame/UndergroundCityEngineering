@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "facing=up": { "model": "temloe:blocknexg1" },
+        "facing=down": { "model": "temloe:blocknexg1", "x": 180 },
+        "facing=east": { "model": "temloe:blocknexg1", "y": 90, "x": 90 },
+        "facing=south": { "model": "temloe:blocknexg1", "y": 180, "x": 90 },
+        "facing=west": { "model": "temloe:blocknexg1", "y": 270, "x": 90 },
+        "facing=north": { "model": "temloe:blocknexg1", "y": 0, "x": 90 }
+    }
+}
+

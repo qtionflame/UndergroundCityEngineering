@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "facing=up": { "model": "temloe:bolmg_golm" },
+        "facing=down": { "model": "temloe:bolmg_golm", "x": 180 },
+        "facing=east": { "model": "temloe:bolmg_golm", "y": 90, "x": 90 },
+        "facing=south": { "model": "temloe:bolmg_golm", "y": 180, "x": 90 },
+        "facing=west": { "model": "temloe:bolmg_golm", "y": 270, "x": 90 },
+        "facing=north": { "model": "temloe:bolmg_golm", "y": 0, "x": 90 }
+    }
+}
+

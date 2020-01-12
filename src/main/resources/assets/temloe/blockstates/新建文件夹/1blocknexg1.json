@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube_bottom_top",
+    "textures": {
+      "bottom": "temloe:blocks/kkmoalg/bottom",
+      "top": "temloe:blocks/kkmoalg/top",
+      "side": "temloe:blocks/kkmoalg/side"
+    }
+  },
+  "variants": {
+    "inventory": [
+      {}
+    ],
+    "normal": [
+      {}
+    ]
+  }
+}
