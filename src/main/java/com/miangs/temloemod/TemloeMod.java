@@ -19,6 +19,8 @@ public class TemloeMod
 {
 	@SidedProxy(clientSide = "com.miangs.temloemod.proxy.ClientProxy", serverSide = "com.miangs.temloemod.proxy.CommonProxy")
 	public static CommonProxy proxy;
+
+
 	
 	public static final String MODID = "temloe";
 	public static final String NAME = "Temloe NET";
